@@ -1,3 +1,20 @@
+# 👋 Hi, I’m Tumwesigye Geofrey
+
+Machine Learning Engineer | Full-Stack Developer  
+Building production-ready, data-driven systems with real-world impact
+
+---
+
+## 📫 Contact & Portfolio
+
+🌐 **Portfolio:** https://personal-portifolioss.vercel.app  
+📧 **Email (Academic):** g.tumwesigy@alustudent.com  
+📧 **Email (General):** tumwesigye.geofrey@gmail.com  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat-square)](https://personal-portifolioss.vercel.app)
+
+---
+
 # 💫 About Me:
 I am a Machine Learning Engineer and Full-Stack Developer focused on building intelligent, data-driven systems that solve real-world problems.<br><br>I am currently working on production-ready Machine Learning applications, combining predictive models, data pipelines, and modern web interfaces to deliver practical, scalable solutions.<br><br>I am open to collaborating on Machine Learning systems, applied data science projects, and full-stack platforms where models are deployed and used in real environments.<br><br>I am continuously deepening my expertise in Neural Networks, model optimization, MLOps fundamentals, and backend APIs using FastAPI, with a strong focus on reliability and performance.<br><br>Ask me about Machine Learning model development, data preprocessing, predictive analytics, deploying ML with APIs, or building full-stack applications around intelligent systems.<br><br>Fun fact: I enjoy turning complex academic or theoretical models into tools that people can actually use.
 
