@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tumwesigye Geofrey
+# 👋 Hi, I’m Geofrey Tumwesigye 
 
 Machine Learning Engineer | Full-Stack Developer  
 Building production-ready, data-driven systems with real-world impact
