@@ -15,7 +15,8 @@ I am a Machine Learning Engineer and Full-Stack Developer focused on building in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-tumwesigye&theme=dark&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=g-tumwesigye&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=g-tumwesigye&theme=radical&no-frame=true&margin-w=10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=g-tumwesigye&limit=5&theme=dark)
